@@ -20,12 +20,6 @@ Reviews service developed by <a href="https://github.com/bleafman">bleafman</a>,
 
 <a href='https://github.com/zonagilreath'>zonagilreath</a> - Product Display
 
-- What does the app do?
-
-  - What problem does it solve? Who uses it?
-  - Why was it built?
-  - User Inputs and Outputs
-
 ### Tech Stack
 
 _Hackmazon Reviews_ was built primarily with ReactJS on the front end, Node/Express on the backend, and MongoDB for the database. Other key technologies used are listed below:
@@ -55,7 +49,7 @@ Some unexpected issue I ran into while building this app:
 - As a User, I should be able to see an overall score and summary of the reviews for a product.
 - As a User, I should be able to see the rating of a product whenever one is show to me.
 
-## Minimum Viable Product (MVP)
+### Minimum Viable Product (MVP)
 
 The MVP of the app displays a complete review section, sorted by 'most helpful' review, when given a item ID.
 
