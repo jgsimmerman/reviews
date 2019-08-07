@@ -16,7 +16,7 @@ Reviews service developed by <a href="https://github.com/bleafman">bleafman</a>,
 
 <a href='https://github.com/Jordielove'>Jordielove</a> - Carousel
 
-<a href='https://github.com/VarCannon'>VarCannon</a> - Q&A
+<a href='https://github.com/VarCannon'>VarCannon</a> - Q&A and SCRUM Master
 
 <a href='https://github.com/zonagilreath'>zonagilreath</a> - Product Display
 
